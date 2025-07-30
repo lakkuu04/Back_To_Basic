@@ -14,7 +14,7 @@ public class Function{
 
     int result = averageOfThree(l,m,n);
 
-    System.out.prinln("Average of Three : "+result);
+    System.out.println("Average of Three : "+result);
   }
 } 
     
