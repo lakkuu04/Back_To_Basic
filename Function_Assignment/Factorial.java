@@ -1,3 +1,5 @@
+/** Enter n value from the user and print its factorial*/
+
 import java.util.*;
 public class Functions {
   public static void printFactorial(int n){
